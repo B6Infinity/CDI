@@ -1,3 +1,4 @@
 psutil
 os
 json
+speedtest-cli
